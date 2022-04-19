@@ -17,6 +17,7 @@ print('----------------------')
 print(bool('')) # 空字符串布尔值为False
 print(bool(False)) # False的布尔值为False
 print(bool(None)) # None的布尔值为False
+print(bool(None)) # None的布尔值为False
 
 
 
